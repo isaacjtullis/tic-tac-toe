@@ -1,0 +1,38 @@
+.main-page {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button.main {
+  height: 50px;
+  width: 130px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.loading-screen {
+  justify-content: center;
+  display: flex;
+}
+
+.loading-screen .loading-text {
+  color: var(--warning-color);
+  font-size: 26px;
+  font-weight: 600;
+}
+.loading-screen .elements {
+  text-align: center;
+}
+
+button.success {
+  background-color: var(--success-color);
+  margin: 10px;
+}
+button.warning {
+  background-color: var(--warning-color);
+  margin: 10px;
+}

@@ -1,0 +1,33 @@
+body {
+    font-family: 'Vintage Typewriter', sans-serif; /* vintage font */
+    color: var(--x-color); /* use X color for text */
+}
+
+.tic-tac-toe {
+  text-align: center;
+}
+.current-player, .game-over {
+  margin: 30px;
+  font-size: 26px;
+  color: var(--success-color);
+  font-weight: 500;
+}
+.board {
+  display: grid;
+  text-align: center;
+  justify-content: center;
+  grid-template-columns: repeat(3, 150px);
+  grid-template-rows: repeat(3, 150px);
+}
+  
+.square {
+  background-color: var(--square-color); /* brown square */
+  border: 1px solid #D04C57;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+  color: white;
+  cursor: pointer;
+}
+  
