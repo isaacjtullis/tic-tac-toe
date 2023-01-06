@@ -1,8 +1,8 @@
 # Getting Started with Tic Tac Toe
-# ARE YOU READY TO BE DESTROYED IN A GAME OF TIC TAC TOE? 
-# BRING YOUR GREATEST SELF TO FACE OFF AGAINST THE ALMIGHTY AI
-# IT IS A BATTLE OF LIFE AND DEATH! (Well, not really) BUT FEEL THE PRESSURE 
-# MAY THE ODDS BE IN YOUR FAVOR (*insert dramatic music*)
+### ARE YOU READY TO BE DESTROYED IN A GAME OF TIC TAC TOE? 
+### BRING YOUR GREATEST SELF TO FACE OFF AGAINST THE ALMIGHTY AI
+### IT IS A BATTLE OF LIFE AND DEATH! (Well, not really) BUT FEEL THE PRESSURE 
+### MAY THE ODDS BE IN YOUR FAVOR (*insert dramatic music*)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
