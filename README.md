@@ -10,6 +10,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install` 
+This will install the necessary packages to run this code.
+If you run into issues, it might be with the `lottie-files` package. You can run this: `npm i react-lottie -force`
+
+This will force install that package
+
 ### `npm start`
 
 Runs the app in the development mode.\
